@@ -1,0 +1,100 @@
+patient|sex|age|breath|o2 sat|heart|systolic bp|temp|alertness|inspired|status
+E9559|FEMALE|40|24|0.96|105|115|34.9|ALERT|AIR|unrestricted normal activity
+E9385|Female|51|19|0.99|90|91|38.1|ALERT|supplemental oxygen|unrestricted normal activity
+E3067|female|40|29|0.96|105|95|38.1|ALERT|air|unrestricted normal activity
+E9422|FEMALE|66|19|0.96|135|115|38.1|ALERT|AIR|bed/chair bound, no self-care
+E8661|MALE|18|22|0.95|105|115|36.3|Confused or Not Alert|air|unrestricted normal activity
+E6235|Male|16|23|0.96|135|115|39.2|ALERT|supplemental oxygen|unrestricted normal activity
+E4451|MALE|40|8|0.96|135|115|38.1|ALERT|AIR|unrestricted normal activity
+E8433|FEMALE|40|23|0.99|89|91|38.1|ALERT|AIR|limited self-care
+E7593|FEMALE|80|23|0.96|105|115|38.1|ALERT|supplemental oxygen|limited activity, can self-care
+E3296|MALE|51|23|0.95|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E4157|FEMALE|40|23|0.96|41|115|35.4|ALERT|AIR|unrestricted normal activity
+E7702|FEMALE|40|22|0.96|105|115|38.1|ALERT|supplemental oxygen|unrestricted normal activity
+E8158|MALE|40|20|0.99|135|115|39.2|ALERT|AIR|unrestricted normal activity
+E4795|female|80|11|0.93|105|95|40.8|ALERT|AIR|limited activity, can self-care
+E8800|MALE|80|22|0.96|105|115|39.2|confused or not alert|AIR|limited activity, can self-care
+E4855|female|51|23|0.94|135|115|38.1|ALERT|AIR|limited strenuous activity, can do light activity
+E9691|Male|16|10|0.96|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E4535|FEMALE|19|11|0.99|105|115|35.4|ALERT|AIR|unrestricted normal activity
+E2360|Male|40|20|0.96|51|95|34.9|alert|supplemental oxygen|unrestricted normal activity
+E3447|MALE|80|22|0.96|41|115|38.1|ALERT|AIR|limited activity, can self-care
+E8208|FEMALE|18|23|0.96|135|115|38.1|ALERT|AIR|unrestricted normal activity
+E4428|FEMALE|40|23|0.96|38|115|36.3|ALERT|AIR|unrestricted normal activity
+E2766|Male|18|23|0.96|105|115|34.9|ALERT|AIR|unrestricted normal activity
+E3888|FEMALE|51|19|0.96|135|115|34.9|ALERT|AIR|unrestricted normal activity
+E7110|female|85|24|0.99|105|101|40.8|Confused or Not Alert|AIR|unrestricted normal activity
+E2668|FEMALE|18|22|0.96|105|101|38.1|ALERT|AIR|unrestricted normal activity
+E8482|Male|40|22|0.96|105|230|36.3|ALERT|AIR|limited self-care
+E9619|FEMALE|40|11|0.98|41|115|38.1|ALERT|AIR|unrestricted normal activity
+E1700|male|40|23|0.96|105|115|38.1|Confused or Not Alert|AIR|unrestricted normal activity
+E8585|MALE|19|8|0.96|105|115|36.3|alert|AIR|bed/chair bound, no self-care
+E8633|FEMALE|40|22|0.96|38|91|35.4|ALERT|AIR|unrestricted normal activity
+E2117|FEMALE|16|22|0.96|135|115|39.2|Confused or Not Alert|supplemental oxygen|bed/chair bound, no self-care
+E2322|female|18|22|0.96|105|115|38.1|alert|supplemental oxygen|unrestricted normal activity
+E6912|FEMALE|51|23|0.96|105|95|34.9|ALERT|AIR|unrestricted normal activity
+E5702|Male|80|23|0.96|135|115|38.1|ALERT|AIR|unrestricted normal activity
+E5513|FEMALE|18|12|0.96|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E1861|FEMALE|18|22|0.96|105|230|38.1|ALERT|AIR|limited strenuous activity, can do light activity
+E4809|FEMALE|40|22|0.96|41|230|38.1|ALERT|AIR|unrestricted normal activity
+E1365|MALE|22|22|0.96|115|101|35.4|ALERT|AIR|bed/chair bound, no self-care
+E5984|Male|40|12|0.93|105|91|35.1|ALERT|AIR|limited activity, can self-care
+E7013|FEMALE|66|23|0.96|135|89|40.8|ALERT|supplemental oxygen|unrestricted normal activity
+E2331|female|18|23|0.98|105|115|38.1|ALERT|AIR|limited self-care
+E9938|MALE|18|12|0.96|105|89|35.1|ALERT|AIR|unrestricted normal activity
+E5121|Female|18|23|0.96|41|95|38.1|ALERT|supplemental oxygen|limited activity, can self-care
+E9280|male|65|10|0.96|135|91|38.1|ALERT|AIR|unrestricted normal activity
+E4762|FEMALE|40|12|0.98|105|95|38.1|ALERT|AIR|unrestricted normal activity
+E6885|MALE|18|23|0.93|89|115|35.1|confused or not alert|AIR|limited activity, can self-care
+E1695|FEMALE|40|22|0.96|41|115|38.1|ALERT|AIR|unrestricted normal activity
+E9658|Female|18|10|0.96|90|230|38.1|ALERT|AIR|limited self-care
+E1961|FEMALE|65|23|0.96|105|115|40.8|ALERT|AIR|limited activity, can self-care
+E9154|FEMALE|66|8|0.94|105|89|35.4|alert|AIR|bed/chair bound, no self-care
+E9417|FEMALE|40|23|0.96|105|95|38.1|alert|AIR|unrestricted normal activity
+E9979|Male|18|8|0.96|105|115|38.1|ALERT|AIR|limited strenuous activity, can do light activity
+E9316|MALE|18|23|0.96|135|115|38.1|ALERT|AIR|unrestricted normal activity
+E8146|Male|18|12|0.96|115|115|38.1|ALERT|AIR|unrestricted normal activity
+E3093|female|40|29|0.96|105|95|38.1|ALERT|AIR|unrestricted normal activity
+E8829|male|65|12|0.96|51|230|38.1|alert|AIR|unrestricted normal activity
+E1453|male|18|24|0.99|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E5777|female|66|23|0.96|115|89|38.1|ALERT|AIR|limited strenuous activity, can do light activity
+E4564|FEMALE|18|24|0.96|41|115|35.1|confused or not alert|AIR|unrestricted normal activity
+E1904|FEMALE|40|22|0.93|38|95|38.1|Confused or Not Alert|AIR|unrestricted normal activity
+E8746|Female|40|12|0.93|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E9165|FEMALE|19|22|0.98|50|95|38.1|ALERT|AIR|limited activity, can self-care
+E9305|FEMALE|40|8|0.89|105|101|38.1|ALERT|supplemental oxygen|unrestricted normal activity
+E3217|Female|40|10|0.95|105|95|38.1|ALERT|AIR|unrestricted normal activity
+E3127|Female|40|8|0.96|38|115|36.3|ALERT|AIR|limited strenuous activity, can do light activity
+E7501|female|18|23|0.96|135|115|38.1|ALERT|AIR|unrestricted normal activity
+E4997|female|40|23|0.94|105|115|36.3|ALERT|AIR|unrestricted normal activity
+E6181|female|19|23|0.96|89|115|38.1|ALERT|AIR|unrestricted normal activity
+E1073|FEMALE|18|24|0.95|50|115|38.1|Confused or Not Alert|AIR|limited self-care
+E9608|female|80|12|0.96|50|89|38.1|ALERT|AIR|unrestricted normal activity
+E7663|FEMALE|18|11|0.96|105|115|38.1|ALERT|air|limited self-care
+E7648|female|66|12|0.98|41|115|34.9|ALERT|air|unrestricted normal activity
+E1883|male|40|10|0.98|105|115|38.1|ALERT|AIR|unrestricted normal activity
+E2001|FEMALE|18|12|0.99|51|115|38.1|Confused or Not Alert|AIR|unrestricted normal activity
+E2418|male|18|20|0.94|105|115|35.4|ALERT|air|unrestricted normal activity
+E3739|Male|85|10|0.96|105|115|38.1|Confused or Not Alert|supplemental oxygen|unrestricted normal activity
+E8351|FEMALE|40|23|0.96|90|101|38.1|ALERT|AIR|unrestricted normal activity
+E2882|Male|51|24|0.98|105|91|38.1|ALERT|AIR|unrestricted normal activity
+E1902|Female|85|22|0.96|105|115|38.1|ALERT|supplemental oxygen|unrestricted normal activity
+E2155|Male|18|22|0.94|105|115|38.1|ALERT|air|limited self-care
+E4345|Female|40|19|0.89|41|115|34.9|ALERT|air|unrestricted normal activity
+E4194|FEMALE|40|12|0.95|105|91|38.1|ALERT|AIR|limited self-care
+E5211|male|65|22|0.96|41|115|38.1|ALERT|AIR|unrestricted normal activity
+E5488|Female|40|12|0.94|105|101|38.1|ALERT|AIR|unrestricted normal activity
+E8560|FEMALE|40|23|0.96|41|115|35.1|confused or not alert|AIR|unrestricted normal activity
+E2995|FEMALE|18|20|0.99|105|95|35.1|alert|AIR|unrestricted normal activity
+E3422|FEMALE|40|8|0.96|105|115|35.4|ALERT|AIR|unrestricted normal activity
+E7707|Female|18|20|0.96|38|115|36.3|ALERT|air|limited strenuous activity, can do light activity
+E3119|FEMALE|18|20|0.99|135|89|35.1|ALERT|supplemental oxygen|unrestricted normal activity
+E1419|male|65|23|0.99|105|91|38.1|alert|AIR|unrestricted normal activity
+E7748|male|40|23|0.93|105|115|38.1|ALERT|supplemental oxygen|unrestricted normal activity
+E7251|Female|40|12|0.96|105|91|38.1|alert|AIR|unrestricted normal activity
+E1235|FEMALE|40|29|0.96|41|115|38.1|ALERT|AIR|bed/chair bound, no self-care
+E5361|FEMALE|18|22|0.93|90|101|38.1|confused or not alert|AIR|unrestricted normal activity
+E7130|FEMALE|18|22|0.96|50|115|38.1|ALERT|AIR|limited strenuous activity, can do light activity
+E5665|FEMALE|85|23|0.96|115|115|38.1|ALERT|AIR|unrestricted normal activity
+E9957|Female|40|22|0.98|89|230|38.1|alert|AIR|unrestricted normal activity
+E10000|FEMALE|18|23|0.96|105|101|38.1|ALERT|AIR|limited activity, can self-care

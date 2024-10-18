@@ -1,0 +1,13 @@
+{
+    "Organ Failure History" : {
+        "Nonoperative": 5,
+        "Emergency": 5,
+        "Elective": 2,
+        "None": 0
+    },
+    "Age": [
+        { "min":  0, "max": 45,  "points": 0 },
+        { "min": 45, "max": 55,  "points": 2 },
+        { "min": 75, "max": 999, "points": 6 }
+    ]
+}
